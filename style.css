@@ -91,3 +91,13 @@
     border: 1px solid #fff;
     color: #fff;
     }
+    .buttons .btn:hover{
+        background-color: aliceblue;
+        border: 1px solid #fff;
+        color:black;
+    }
+    .buttons .login:hover{
+        background-color: aliceblue;
+        border: 1px solid #fff;
+        color:black;
+    }
