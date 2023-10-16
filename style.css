@@ -92,12 +92,12 @@
     color: #fff;
     }
     .buttons .btn:hover{
-        background-color: aliceblue;
-        border: 1px solid #fff;
-        color:black;
+        background-color: black;
+        border: 1px solid white;
+        color:white;
     }
     .buttons .login:hover{
-        background-color: aliceblue;
-        border: 1px solid #fff;
-        color:black;
+        background-color: black;
+        border: 1px solid white;
+        color:white;
     }
