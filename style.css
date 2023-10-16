@@ -44,14 +44,16 @@
     color: #f9004d;
     }
     .login{
+    font-weight: bold;
     background: red;
     border-radius: 6px;
-    padding: 9px 25px;
+    padding: 9px 20px;
     text-decoration: none;
     transition: 0.5s;
     font-size: 18px;
     }
     .btn{
+    font-weight: bold;
     background: red;
     border-radius: 6px;
     padding: 9px 25px;
@@ -61,13 +63,15 @@
     }
 
     .content{
-    margin-top: 10%;
+    margin-top: 15%;
     max-width: 600px;
     }
     .content h2{
-    font-size: 60px
+    font-size: 58px
     }
     .content p{
+    font-size: 15px;
+    font-weight: bold;
     margin-top: 10px;
     line-height: 25px;
     }
